@@ -50,8 +50,6 @@
 
 4、创建文件的路径及文件名设置为“.github/workflows/signin.yml”，直接复制粘贴到第一个红框位置即可。文件内容如下：
 
-**复制
-
 ```
 name: Aliyun Signin
 
