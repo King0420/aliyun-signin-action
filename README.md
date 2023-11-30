@@ -1,5 +1,7 @@
 # 阿里云盘自动领SVIP教程_利用GitHub脚本实现阿里云盘自动签到领取免费SVIP
-> https://github.com/ImYrS/aliyun-auto-signin
+> ~~https://github.com/ImYrS/aliyun-auto-signin~~
+> 
+> https://github.com/ImYrS/aliyundrive-qr-login
 > 
 **文章发布时间：2023-03-14 10:12:19**
 
