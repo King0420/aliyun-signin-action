@@ -1,6 +1,8 @@
 # 阿里云盘自动领SVIP教程_利用GitHub脚本实现阿里云盘自动签到领取免费SVIP
-
+> https://github.com/ImYrS/aliyun-auto-signin
+> 
 **文章发布时间：2023-03-14 10:12:19**
+
 
 [阿里云盘免费SVIP](https://www.zhuji999.com/tag/15904)，[阿里云盘](https://www.zhuji999.com/tag/15771)SVIP目前是通过每月签到来领取的，像2023年3月来说，如果完成一个月31天签到可以领取36天的SVIP会员，也就是整月都是享受SVIP的。 前面说了需要每日签到才能领取到全月36天的SVIP会员！ 由于是每日必做的事情，有个时候经常会忘记，于是这里分享一个[阿里云](https://www.zhuji999.com/tag/1594)盘自动领SVIP的教程，是利用GitHub脚本实现阿里云盘每日自动签到领取免费SVIP！
 
